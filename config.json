@@ -4,7 +4,7 @@
   "scheme": "ws",
   "local_port": 1080,
   "remote_port": 8080,
-  "password": "`try*(^^$some^$%^complex>:<>?~password/",
-  "timeout": 600,
-  "method": "rc4-md5"
+  "password": "6R#sdpxNTg",
+  "timeout": 60,
+  "method": "aes-128-cfb"
 }
